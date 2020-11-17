@@ -125,7 +125,7 @@ body {
     .navbar-brand h1 {
         /* Restaurant name */
         padding: 25px;
-        font-size: 8vw;
+        font-size: 30px;
         /* 1vw = 1% of viewport width */
     }
     button.navbar-toggle {
