@@ -26,6 +26,9 @@ a{
     border-radius: 2px;
 }
 
+ul li{
+    margin-top: 30px;
+}
 a:hover{
     background-color: #95a5a6;
 }
